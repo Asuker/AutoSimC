@@ -19,8 +19,3 @@ branches:
    - master
 #after_success:
 #    - coveralls
-notifications:
-  email:
-#    recipients:
-    on_success: change
-    on_failure: always
